@@ -1,0 +1,6 @@
+nombre = "Valentin"
+edad=33
+
+print ("Hola {} tienes {} años.".format(nombre,edad))
+
+

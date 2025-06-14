@@ -1,0 +1,5 @@
+cadena = "\tHola Valentin\n"
+print(cadena)
+
+cadena=cadena.strip("H nit\t\n")
+print(cadena)  

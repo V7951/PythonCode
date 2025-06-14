@@ -1,0 +1,6 @@
+#Función del uso de len()
+#opción 1 
+print("Hola tiene la cantidad de:", len("Hola"), "caracteres.")
+#opción 2
+longitud = len("La Geekpedia")
+print ("La geekpedia tiene:",longitud, "caracteres")

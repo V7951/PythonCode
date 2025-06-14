@@ -1,0 +1,16 @@
+#Ejemplo 1
+
+print(f"El resultado de la suma 4 + 1={4+1}")
+
+nombre="Valentin"
+estatura=170
+edad=33
+
+print(f" Hola {nombre} tienes {edad} años y mides {estatura} cm")
+
+
+nombre= input("Ingrese su nombre: ")
+num_uno=int(input("introduce un número: "))
+num_dos=int(input("Introduce un segundo número :"))
+
+print(f"Hola: {nombre} el resultado de {num_uno} + {num_dos} es igual: {num_uno+ num_dos} ")

@@ -1,0 +1,8 @@
+#Función len()
+#opción 1
+print ("Hola tiene", len("hola"), "caracteres.")
+
+
+#opción 2
+longitud = len("Es morbius time")
+print("Las palabras Es morbius time", longitud, "caracteres")
